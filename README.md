@@ -10,7 +10,6 @@ tomei a decisão correta quando decidi encarrar essa mudança profissional.
 
 
 ## Tecnologias que já utilizo
-## Tecnologias que já utilizo
 <span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
